@@ -13,9 +13,9 @@ Wetenschappelijke artikels, _contextual inquiries_ en gebruikersbevragingen tone
 Met Ctrl-Wheely introduceren we een innovatief, gebruiksvriendelijk en veilig herontwerp van het autodashboard. Een combinatie van een head-up display (HUD), fysieke verplaatsbare knop en controlepaneel moet de bediening sneller en veiliger maken terwijl de ogen op de weg gehouden worden. De afleiding wordt hierbij tot een minimum beperkt.
 
 <p align="center">
-  <img src="/images/heroshot finaal alles.jpg" width="32%">
-  <img src="/images/heroshot finaal close-up.jpg" width="32%">
-  <img src="/images/heroshot finaal hud.jpg" width="32%">
+  <img src="Placeholder-_-Begrippenlijst - kopie (2).svg" width="32%">
+  <img src="Placeholder-_-Begrippenlijst - kopie.svg" width="32%">
+  <img src="Placeholder-_-Begrippenlijst.svg" width="32%">
 </p>
 
 [<img src="/images/thumbnail.png">](https://www.youtube.com/watch?v=vWs9MYro9L0)
